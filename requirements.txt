@@ -5,4 +5,5 @@ streamlit
 numpy 
 pandas
 scikit-learn
+patchify
 -e .
